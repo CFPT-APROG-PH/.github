@@ -28,3 +28,4 @@ Le cahier des charges définit le besoin auquel le projet doit répondre. Il ser
 
 ### La documentation
 - [Technique](documentation.md)
+- [Les Bonnes Pratiques de programmation](LesBonnesPratiques.md)
