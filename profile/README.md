@@ -26,6 +26,5 @@ Le cahier des charges définit le besoin auquel le projet doit répondre. Il ser
 1. [La théorie](https://www.frecem.ch/fileadmin/user_upload/Formation/Menuisier-Ebeniste/CFC_Menuisier_Ebeniste/Classeurs_CIE/1_4_IPDRCE.pdf)
 2. [La méthode des 6 étapes en résumé](https://www.cifc-vd.ch/docs/18_mois/ci_1/2._la_methode_des_6_etapes.pdf)
 
-
-
----
+### La documentation
+- [Technique](documentation.md)
